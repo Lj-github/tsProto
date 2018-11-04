@@ -1,2 +1,3 @@
 # tsProto
 typescript msg bata  msgpack...
+base egret typescript
